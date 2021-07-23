@@ -1,0 +1,53 @@
+.alinharRotulos {
+    text-align: right;
+}
+.alinhaBtns {
+    width:30%;
+    background-color: black;
+    color: white;
+    border:0px;
+    padding:5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.carrinho {
+    float:center;
+    align-items: center;
+    
+}
+.carrinho p {
+    display: inline;
+}
+table {
+    clear:both; 
+    background-color:rgba(87, 149, 173, 0.993);
+    border-radius: 20px; 
+    color:black;
+    padding:10px;
+    width:600px;
+    margin:auto;
+}
+caption {
+    color:rgba(24, 23, 23); 
+    font-weight: bold; 
+    font-size: 25px;
+}
+
+footer{
+    height: 80px;
+    padding: 25px;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+
+.background-section-one{
+    background-image: url(./assets/fundo_login.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center; 
+    align-self: center;
+    align-content: center;
+    text-align: left;    
+    color: #000;
+}
