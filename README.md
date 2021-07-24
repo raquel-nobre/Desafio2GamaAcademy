@@ -22,7 +22,9 @@ A aplicação consiste em uma pagina de cadastro de produtos,onde ao clicar em C
 ## Implantação em produção
 - Front end web: Netlify
 
-
+## Agradecimentos
+ Agradecimento aos Yellow Belts, Bruce e a toda equipe da Gama Academy por me oferecer essa oportunidade de aprendizagem.
+ 
 # Autor
 
 Raquel Nobre de Luna 
